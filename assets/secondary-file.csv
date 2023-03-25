@@ -1,0 +1,23 @@
+{
+	"login.slogan": "با یک کلیک ، جهان از آن توست .",
+	"login.use-credentials": "لطفا برای ورود از اطلاعات کاربری خود استفاده نمایید.",
+	"login.username.placeholder": "نام کاربری",
+	"login.password.placeholder": "گذرواژه",
+	"login.captcha.placeholder": "عبارت امنیتی ",
+	"all.captcha": "عبارت امنیتی ",
+	"login.login": "ورود",
+	"validation.required": "این بخش الزامی است",
+	"validation.invalid-trim": "نامعتبر",
+	"validation.min-6-password": "گذرواژه می‌بایست حداقل ۶ کاراکتر را شامل شود",
+	"validation.min-4-phone": "تلفن می‌بایست حداقل ۴کاراکتر را شامل شود",
+	"validation.max-24-phone": "تلفن نباید بیشتر از ۲۴ کاراکتر باشد . ",
+	"validation.max-16-phone": "تلفن نباید بیشتر از ۱۶ کاراکتر باشد . ",
+	"validation.max-32-phone": "تلفن نباید بیشتر از ۳۲ کاراکتر باشد . ",
+	"validation.max-16": "این بخش نباید بیشتر از ۱۶ کاراکتر باشد .",
+	"validation.max-32": "این بخش نباید بیشتر از ۳۲ کاراکتر باشد .",
+	"validation.max-64": "این بخش نباید بیشتر از ۶۴ کاراکتر باشد .",
+	"validation.max-128": "این بخش نباید بیشتر از ۱۲۸ کاراکتر باشد .",
+	"validation.email": "ایمیل نامعتبر است",
+	"validation.url": "آدرس وبسایت نامعتبر است ",
+	"validation.invalid-captcha": "عبارت امنیتی نا معتبر است"
+}

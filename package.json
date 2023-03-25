@@ -1,0 +1,16 @@
+{
+  "name": "csv-file-comparison",
+  "version": "1.0.0",
+  "description": "through this script you can compare two files and get the report as CSV file and after that find Diff, Change and Save modified CSV files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
