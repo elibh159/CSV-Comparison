@@ -15,7 +15,7 @@ through this script you can compare two CSV files and find Diff, Change and Save
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/elibh159/CSV-Comparison.git
 ```
 
 Go to the project directory
